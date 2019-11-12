@@ -1,0 +1,261 @@
+
+/* Class = "UILabel"; text = "Dubai - Silicon Oasis"; ObjectID = "2HI-D4-kQW"; */
+"2HI-D4-kQW.text" = "Dubai - Silicon Oasis";
+
+/* Class = "UILabel"; text = "Want to :"; ObjectID = "3hu-fA-tmJ"; */
+"3hu-fA-tmJ.text" = ":أريد أن";
+
+/* Class = "UILabel"; text = "ISBN :"; ObjectID = "4vZ-C3-GXc"; */
+"4vZ-C3-GXc.text" = "ISBN :";
+
+/* Class = "UILabel"; text = "Sell"; ObjectID = "5j5-34-ZQr"; */
+"5j5-34-ZQr.text" = "بيع";
+
+/* Class = "UITextField"; placeholder = "Type Message"; ObjectID = "66h-Js-BQz"; */
+"66h-Js-BQz.placeholder" = "أكتب رسالتك";
+
+/* Class = "UITextView"; text = "This is the book descriptions"; ObjectID = "9oM-WP-x6F"; */
+"9oM-WP-x6F.text" = "This is the book descriptions";
+
+/* Class = "UIButton"; normalTitle = "  Done  "; ObjectID = "9sG-gU-5dB"; */
+"9sG-gU-5dB.normalTitle" = "تم";
+
+/* Class = "UIButton"; normalTitle = "     Continue    "; ObjectID = "AVf-7g-huk"; */
+"AVf-7g-huk.normalTitle" = "متابعة";
+
+/* Class = "UILabel"; text = "Description :"; ObjectID = "Ab7-QV-6xy"; */
+"Ab7-QV-6xy.text" = ":الوصف";
+
+/* Class = "UILabel"; text = "Scan ISBN Code "; ObjectID = "AfM-pN-3Ee"; */
+"AfM-pN-3Ee.text" = "ISBN إمسح رمز ";
+
+/* Class = "UILabel"; text = "New Book"; ObjectID = "B5d-Xd-Xil"; */
+"B5d-Xd-Xil.text" = "كتاب جديد";
+
+/* Class = "UILabel"; text = "Add the details maunally "; ObjectID = "BBV-Mg-bCN"; */
+"BBV-Mg-bCN.text" = "إضافة تفاصيل الكتاب يدويا";
+
+/* Class = "UILabel"; text = "Jeffry A. Frieden"; ObjectID = "BZz-DV-Cm8"; */
+"BZz-DV-Cm8.text" = "Jeffry A. Frieden";
+
+/* Class = "UITextField"; placeholder = "Edition"; ObjectID = "DzS-SE-U2S"; */
+"DzS-SE-U2S.placeholder" = ":الإصدار";
+
+/* Class = "UITextField"; placeholder = "Add book ISBN here"; ObjectID = "EkM-Ug-wH3"; */
+"EkM-Ug-wH3.placeholder" = "هنا ISBN ضف رمز";
+
+/* Class = "UIButton"; normalTitle = "Course Code"; ObjectID = "EpK-6i-1hA"; */
+"EpK-6i-1hA.normalTitle" = "رمز المساق";
+
+/* Class = "UILabel"; text = "Want to :"; ObjectID = "Ftn-8h-JFf"; */
+"Ftn-8h-JFf.text" = ":أريد أن :";
+
+/* Class = "UITextField"; placeholder = "Course Name"; ObjectID = "FwN-ql-9ET"; */
+"FwN-ql-9ET.placeholder" = "إسم المساق";
+
+/* Class = "UILabel"; text = "Couldn't find your course in our course list  ?"; ObjectID = "HP5-48-3qu"; */
+"HP5-48-3qu.text" = "لم تعثر على المساق؟";
+
+/* Class = "UITextField"; placeholder = "Course Code "; ObjectID = "InW-kY-OLu"; */
+"InW-kY-OLu.placeholder" = "رمز المساق";
+
+/* Class = "UILabel"; text = "Add Main Image  :"; ObjectID = "L8R-3E-E54"; */
+"L8R-3E-E54.text" = ":الصورة الأساسية";
+
+/* Class = "UIButton"; normalTitle = "Select Book Status "; ObjectID = "LR9-fk-Fgb"; */
+"LR9-fk-Fgb.normalTitle" = "إختر حالة الكتاب";
+
+/* Class = "UITextField"; placeholder = "Author"; ObjectID = "LdS-JK-tTw"; */
+"LdS-JK-tTw.placeholder" = "المؤلف";
+
+/* Class = "UILabel"; text = "Add the book details by scanning the ISBN Code located in the back side of the book"; ObjectID = "MIs-C5-iCy"; */
+"MIs-C5-iCy.text" = " المتواجد في ظهر الكتاب ISBN قم بإدخال بيانات الكتاب عن طريق مسح رمز";
+
+/* Class = "UITextField"; placeholder = "Course Name"; ObjectID = "N7x-Xr-iHz"; */
+"N7x-Xr-iHz.placeholder" = "إسم المساق";
+
+/* Class = "UILabel"; text = "19th"; ObjectID = "NLa-84-mEN"; */
+"NLa-84-mEN.text" = "19th";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "NWs-IC-qin"; */
+"NWs-IC-qin.normalTitle" = "حذف";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "Nw2-jx-oEA"; */
+"Nw2-jx-oEA.placeholder" = "الوصف";
+
+/* Class = "UILabel"; text = "University of Sharja"; ObjectID = "OPZ-Dh-VhO"; */
+"OPZ-Dh-VhO.text" = "University of Sharja";
+
+/* Class = "UILabel"; text = "Edition :"; ObjectID = "OXR-6f-tMF"; */
+"OXR-6f-tMF.text" = ":الإصدار";
+
+/* Class = "UILabel"; text = "Edit Book"; ObjectID = "Oae-Nb-8QF"; */
+"Oae-Nb-8QF.text" = "تعديل الكتاب";
+
+/* Class = "UILabel"; text = "Edit Book"; ObjectID = "Owd-re-MCm"; */
+"Owd-re-MCm.text" = "تعديل الكتاب";
+
+/* Class = "UILabel"; text = "Book Type :"; ObjectID = "PQY-1M-hJ0"; */
+"PQY-1M-hJ0.text" = ": نوع الكتاب";
+
+/* Class = "UIButton"; normalTitle = "Submit Book"; ObjectID = "Qh4-wC-hHt"; */
+"Qh4-wC-hHt.normalTitle" = "رفع الكتاب";
+
+/* Class = "UILabel"; text = "Add the details maunally "; ObjectID = "REa-RC-PW0"; */
+"REa-RC-PW0.text" = "إضافة تفاصيل الكتاب يدويا";
+
+/* Class = "UILabel"; text = "Donate"; ObjectID = "RO9-Br-4GL"; */
+"RO9-Br-4GL.text" = "تبرع";
+
+/* Class = "UILabel"; text = "Books"; ObjectID = "SP3-Tz-SgE"; */
+"SP3-Tz-SgE.text" = "الكتب";
+
+/* Class = "UILabel"; text = "Course"; ObjectID = "SRT-MY-ZwN"; */
+"SRT-MY-ZwN.text" = "المساق";
+
+/* Class = "UIButton"; normalTitle = "     Contact Seller    "; ObjectID = "Shh-Kx-GqD"; */
+"Shh-Kx-GqD.normalTitle" = "التواصل مع البائع";
+
+/* Class = "UILabel"; text = "Send me buyer request as email notification "; ObjectID = "SzS-JQ-7E0"; */
+"SzS-JQ-7E0.text" = "إرسال الإشعارات على الايميل";
+
+/* Class = "UILabel"; text = "Sell"; ObjectID = "Twm-gB-1K4"; */
+"Twm-gB-1K4.text" = "بيع";
+
+/* Class = "UIButton"; normalTitle = "City   Dubai"; ObjectID = "U7L-ST-xNg"; */
+"U7L-ST-xNg.normalTitle" = "City   Dubai";
+
+/* Class = "UILabel"; text = "You can Customise this proposal"; ObjectID = "Uau-VG-oCg"; */
+"Uau-VG-oCg.text" = "You can Customise this proposal";
+
+/* Class = "UIButton"; normalTitle = "Select City"; ObjectID = "Uuh-00-oqN"; */
+"Uuh-00-oqN.normalTitle" = "إختر المدينة";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "VGB-lV-klm"; */
+"VGB-lV-klm.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "The New Penguin Distionary of Civil Engineering "; ObjectID = "VN5-qF-YD0"; */
+"VN5-qF-YD0.text" = "The New Penguin Distionary of Civil Engineering ";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "W1g-fi-bQs"; */
+"W1g-fi-bQs.normalTitle" = "حذف";
+
+/* Class = "UITextField"; placeholder = "Add book ISBN here"; ObjectID = "WDN-O1-ZWL"; */
+"WDN-O1-ZWL.placeholder" = "ISBN إضافة رمز";
+
+/* Class = "UILabel"; text = "90 AED"; ObjectID = "Wdr-CO-Uxl"; */
+"Wdr-CO-Uxl.text" = "90 AED";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "a4e-ab-erY"; */
+"a4e-ab-erY.normalTitle" = "إرسال";
+
+/* Class = "UITextField"; placeholder = "Author"; ObjectID = "aVi-Js-HgE"; */
+"aVi-Js-HgE.placeholder" = "المؤلف";
+
+/* Class = "UIButton"; normalTitle = "     Continue    "; ObjectID = "ami-Es-bbV"; */
+"ami-Es-bbV.normalTitle" = "متابعة";
+
+/* Class = "UILabel"; text = "Images"; ObjectID = "ap9-XG-PfT"; */
+"ap9-XG-PfT.text" = "صور";
+
+/* Class = "UILabel"; text = "Non Academic"; ObjectID = "cNw-T9-V9k"; */
+"cNw-T9-V9k.text" = "غير أكاديمي";
+
+/* Class = "UILabel"; text = "Academic"; ObjectID = "cg8-sX-REY"; */
+"cg8-sX-REY.text" = "أكاديمي";
+
+/* Class = "UIButton"; normalTitle = "Book Status "; ObjectID = "d8c-R2-C7C"; */
+"d8c-R2-C7C.normalTitle" = "حالة الكتاب";
+
+/* Class = "UIButton"; normalTitle = " + Add  "; ObjectID = "drh-1c-4kb"; */
+"drh-1c-4kb.normalTitle" = "إضافة+";
+
+/* Class = "UIButton"; normalTitle = "Submit Book"; ObjectID = "du0-hm-73B"; */
+"du0-hm-73B.normalTitle" = "رفع الكتاب";
+
+/* Class = "UILabel"; text = "Donate"; ObjectID = "e37-cp-Rhn"; */
+"e37-cp-Rhn.text" = "تبرع";
+
+/* Class = "UILabel"; text = "123456"; ObjectID = "eQP-Ux-oC7"; */
+"eQP-Ux-oC7.text" = "123456";
+
+/* Class = "UIButton"; normalTitle = "My Books"; ObjectID = "ea0-Wp-W24"; */
+"ea0-Wp-W24.normalTitle" = "كتبي";
+
+/* Class = "UIButton"; normalTitle = "Course Code"; ObjectID = "eeJ-WH-sNI"; */
+"eeJ-WH-sNI.normalTitle" = "رمز المساق";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "g3N-Tc-gHq"; */
+"g3N-Tc-gHq.placeholder" = "السعر";
+
+/* Class = "UILabel"; text = "Author :"; ObjectID = "go8-sV-swI"; */
+"go8-sV-swI.text" = ":المؤلف";
+
+/* Class = "UILabel"; text = "Condition :"; ObjectID = "jv7-1J-6QZ"; */
+"jv7-1J-6QZ.text" = ":الحالة";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "k9o-KK-EDk"; */
+"k9o-KK-EDk.title" = "Item";
+
+/* Class = "UILabel"; text = "Couldn't find your course in our course list  ?"; ObjectID = "kOa-BR-sol"; */
+"kOa-BR-sol.text" = "لم تعثر على المساق؟";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "m05-l7-ppd"; */
+"m05-l7-ppd.placeholder" = "الوصف";
+
+/* Class = "UILabel"; text = "Used"; ObjectID = "mSb-oO-K9w"; */
+"mSb-oO-K9w.text" = "مستعمل";
+
+/* Class = "UILabel"; text = "Book Type :"; ObjectID = "maH-qj-2k4"; */
+"maH-qj-2k4.text" = ":نوع الكتاب";
+
+/* Class = "UILabel"; text = "Books"; ObjectID = "mii-5O-Mw6"; */
+"mii-5O-Mw6.text" = "كتب";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "nWh-3s-7Gc"; */
+"nWh-3s-7Gc.placeholder" = "السعر";
+
+/* Class = "UITextField"; placeholder = "Edition"; ObjectID = "pDK-Dv-EyH"; */
+"pDK-Dv-EyH.placeholder" = "الإصدار";
+
+/* Class = "UILabel"; text = "Send me buyer request as email notification "; ObjectID = "qVY-cU-r6i"; */
+"qVY-cU-r6i.text" = "أبلغني عن طريق البريد الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "rn8-O0-deR"; */
+"rn8-O0-deR.placeholder" = "العنوان";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "sYc-EW-Jpa"; */
+"sYc-EW-Jpa.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "New Book"; ObjectID = "spt-cY-dR3"; */
+"spt-cY-dR3.text" = "كتاب جديد";
+
+/* Class = "UITextField"; placeholder = "Course Code "; ObjectID = "tIp-LE-XhA"; */
+"tIp-LE-XhA.placeholder" = "رمز المساق";
+
+/* Class = "UIButton"; normalTitle = "Free Books"; ObjectID = "tgJ-i4-8cb"; */
+"tgJ-i4-8cb.normalTitle" = "كتب مجانية";
+
+/* Class = "UILabel"; text = "Non Academic"; ObjectID = "tmZ-8A-ItD"; */
+"tmZ-8A-ItD.text" = "غير أكاديمي";
+
+/* Class = "UILabel"; text = "Academic"; ObjectID = "u0S-nl-Wor"; */
+"u0S-nl-Wor.text" = "أكاديمي";
+
+/* Class = "UIButton"; normalTitle = "Bookstore"; ObjectID = "xZf-ra-423"; */
+"xZf-ra-423.normalTitle" = "معرض الكتب";
+
+/* Class = "UILabel"; text = "Scan ISBN Code "; ObjectID = "xb3-NQ-g5g"; */
+"xb3-NQ-g5g.text" = "ISBN إمسح رمز";
+
+/* Class = "UILabel"; text = "Add the book details by scanning the ISBN Code located in the back side of the book"; ObjectID = "ykz-nG-qeS"; */
+"ykz-nG-qeS.text" = "المتواجد في ظهر الكتاب ISBN قم بإدخال بيانات الكتاب عن طريق مسح رمز";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "yvQ-1i-xD5"; */
+"yvQ-1i-xD5.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "Add Main Image  :"; ObjectID = "z1j-V4-JpG"; */
+"z1j-V4-JpG.text" = ":إضافة الصورة الأساسية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zM9-yr-9iR"; */
+"zM9-yr-9iR.text" = "ISBN إمسح رمز";

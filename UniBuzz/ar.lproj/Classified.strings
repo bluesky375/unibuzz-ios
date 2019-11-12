@@ -1,0 +1,282 @@
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "0CO-Z9-hAv"; */
+"0CO-Z9-hAv.placeholder" = "رقم الهاتف";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "1qi-mY-niG"; */
+"1qi-mY-niG.normalTitle" = "إرسال";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "282-n6-OYU"; */
+"282-n6-OYU.text" = "Label";
+
+/* Class = "UILabel"; text = "Post as Anonymous"; ObjectID = "2PL-Mt-rGk"; */
+"2PL-Mt-rGk.text" = "إخفاء الهوية";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "2n5-EE-opc"; */
+"2n5-EE-opc.text" = "العنوان";
+
+/* Class = "UILabel"; text = "YEAR"; ObjectID = "30H-7Q-wn6"; */
+"30H-7Q-wn6.text" = "سنة الصنع";
+
+/* Class = "UIButton"; normalTitle = "Saved"; ObjectID = "3cP-Xs-b0D"; */
+"3cP-Xs-b0D.normalTitle" = "محفوظ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3ij-0x-AGp"; */
+"3ij-0x-AGp.text" = "Label";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "3zC-hU-lq5"; */
+"3zC-hU-lq5.text" = "التصنيفات";
+
+/* Class = "UITextField"; placeholder = "Message Type"; ObjectID = "4io-cm-flK"; */
+"4io-cm-flK.placeholder" = "أكتب رسالة";
+
+/* Class = "UILabel"; text = "YEAR"; ObjectID = "6q4-dx-1jy"; */
+"6q4-dx-1jy.text" = "سنة الصنع";
+
+/* Class = "UILabel"; text = "Post as Anonymous"; ObjectID = "7Bt-Ob-Fqd"; */
+"7Bt-Ob-Fqd.text" = "إخفاء الهوية";
+
+/* Class = "UITextField"; placeholder = "Message Type"; ObjectID = "7Io-IQ-XFU"; */
+"7Io-IQ-XFU.placeholder" = "أكتب رسالة";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "8AO-ah-rD8"; */
+"8AO-ah-rD8.text" = "التصنيفات";
+
+/* Class = "UILabel"; text = "Report abuse"; ObjectID = "8Ld-6Y-ALk"; */
+"8Ld-6Y-ALk.text" = "إبلاغ عن إساءة إستخدام";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9LR-3w-UG1"; */
+"9LR-3w-UG1.text" = "Label";
+
+/* Class = "UILabel"; text = "Fuel Type"; ObjectID = "9PL-oP-t5u"; */
+"9PL-oP-t5u.text" = "نوع الوقود";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "9WN-IG-TrP"; */
+"9WN-IG-TrP.text" = "الوصف";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "9n0-lN-1Nx"; */
+"9n0-lN-1Nx.normalTitle" = "إرسال";
+
+/* Class = "UILabel"; text = "New Ad "; ObjectID = "Aja-aR-7Si"; */
+"Aja-aR-7Si.text" = "إعلان جديد";
+
+/* Class = "UILabel"; text = "Usage"; ObjectID = "BCD-hy-c5o"; */
+"BCD-hy-c5o.text" = "الإستخدام";
+
+/* Class = "UILabel"; text = "SPECS"; ObjectID = "D4x-Je-2gr"; */
+"D4x-Je-2gr.text" = "المواصفات";
+
+/* Class = "UITextField"; placeholder = "Ad Tittle"; ObjectID = "Eiq-Fp-Jv6"; */
+"Eiq-Fp-Jv6.placeholder" = "أكتب العنوان";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "F9W-Zb-dYo"; */
+"F9W-Zb-dYo.placeholder" = "السعر";
+
+/* Class = "UILabel"; text = "Sub Categories"; ObjectID = "FSD-Yb-9CL"; */
+"FSD-Yb-9CL.text" = "التصنيفات الفرعية";
+
+/* Class = "UILabel"; text = "YEAR"; ObjectID = "Fj9-nq-DYc"; */
+"Fj9-nq-DYc.text" = "سنة الصنع";
+
+/* Class = "UILabel"; text = "BODY TYPE"; ObjectID = "GTS-v4-9zN"; */
+"GTS-v4-9zN.text" = "النوع";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H0k-Nq-ZHz"; */
+"H0k-Nq-ZHz.text" = "Label";
+
+/* Class = "UILabel"; text = "YEAR"; ObjectID = "IzK-TN-eUf"; */
+"IzK-TN-eUf.text" = "سنة الصنع";
+
+/* Class = "UILabel"; text = "Horsepower"; ObjectID = "J2I-cU-nr3"; */
+"J2I-cU-nr3.text" = "قوة الأحصنة";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "JVW-Tr-Nyr"; */
+"JVW-Tr-Nyr.normalTitle" = "إرسال";
+
+/* Class = "UIButton"; normalTitle = "Next Step"; ObjectID = "KuC-jN-hpA"; */
+"KuC-jN-hpA.normalTitle" = "الخطوة التالية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LOQ-0d-cPm"; */
+"LOQ-0d-cPm.text" = "Label";
+
+/* Class = "UILabel"; text = "Conditions"; ObjectID = "LP8-Uz-xV1"; */
+"LP8-Uz-xV1.text" = "الحالة";
+
+/* Class = "UILabel"; text = "Baby Items"; ObjectID = "Lnq-Lv-JKx"; */
+"Lnq-Lv-JKx.text" = "متعلقات الأطفال";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "MWS-DH-8x1"; */
+"MWS-DH-8x1.placeholder" = "رقم الهانف";
+
+/* Class = "UILabel"; text = "TRANSMISSION"; ObjectID = "MiW-dK-1ex"; */
+"MiW-dK-1ex.text" = "ناقل الحركة";
+
+/* Class = "UILabel"; text = "YEAR"; ObjectID = "MjI-5X-cUM"; */
+"MjI-5X-cUM.text" = "سنة الصنع";
+
+/* Class = "UILabel"; text = "Baby Items"; ObjectID = "NxQ-77-E2r"; */
+"NxQ-77-E2r.text" = "متعلقات الأطفال";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "Nxj-GH-mUX"; */
+"Nxj-GH-mUX.text" = "العمر";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "OWW-Kx-BIw"; */
+"OWW-Kx-BIw.normalTitle" = "إرسال";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PZu-oV-KyM"; */
+"PZu-oV-KyM.text" = "Label";
+
+/* Class = "UILabel"; text = "Images"; ObjectID = "Qxh-sw-6N5"; */
+"Qxh-sw-6N5.text" = "الصور";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SQc-gG-29e"; */
+"SQc-gG-29e.text" = "Label";
+
+/* Class = "UILabel"; text = "Sub Categories"; ObjectID = "Soj-rM-84M"; */
+"Soj-rM-84M.text" = "التصنيفات الفرعية";
+
+/* Class = "UIButton"; normalTitle = "My Classifieds"; ObjectID = "Syi-0d-U0H"; */
+"Syi-0d-U0H.normalTitle" = "إعلاناتي المبوبة";
+
+/* Class = "UILabel"; text = "Body Condition"; ObjectID = "T0t-8x-ySE"; */
+"T0t-8x-ySE.text" = "الحالة الخارجية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ToV-Rx-UfC"; */
+"ToV-Rx-UfC.text" = "Label";
+
+/* Class = "UILabel"; text = "KILOMETERS"; ObjectID = "UDd-0Z-x6B"; */
+"UDd-0Z-x6B.text" = "الكيلومترات";
+
+/* Class = "UILabel"; text = "Ad Details"; ObjectID = "Uwm-nh-P9e"; */
+"Uwm-nh-P9e.text" = "إضافة تفاصيل";
+
+/* Class = "UILabel"; text = "Classified"; ObjectID = "W3i-5f-g9e"; */
+"W3i-5f-g9e.text" = "إعلانات مبوبة";
+
+/* Class = "UIButton"; normalTitle = "Next Step"; ObjectID = "Yfv-Vh-z5I"; */
+"Yfv-Vh-z5I.normalTitle" = "الخطوة التالية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YtJ-H4-3fU"; */
+"YtJ-H4-3fU.text" = "Label";
+
+/* Class = "UILabel"; text = "Mechanical Condition"; ObjectID = "a0a-Ac-gyk"; */
+"a0a-Ac-gyk.text" = "الحالة الميكانيكية";
+
+/* Class = "UILabel"; text = "Sub Categories"; ObjectID = "a1P-5x-qtO"; */
+"a1P-5x-qtO.text" = "التصنيفات الفرعية";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "a4t-le-lg3"; */
+"a4t-le-lg3.text" = "العنوان";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "aQv-Ig-utE"; */
+"aQv-Ig-utE.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aZC-yK-SFg"; */
+"aZC-yK-SFg.text" = "Label";
+
+/* Class = "UILabel"; text = "Baby Items"; ObjectID = "af2-bQ-NGK"; */
+"af2-bQ-NGK.text" = "متعلقات الأطفال";
+
+/* Class = "UILabel"; text = "Sub Categories"; ObjectID = "aqk-D0-fnI"; */
+"aqk-D0-fnI.text" = "التصنيفات الفرعية";
+
+/* Class = "UIButton"; normalTitle = " + Add  "; ObjectID = "bQy-38-zSZ"; */
+"bQy-38-zSZ.normalTitle" = "إضافة+ ";
+
+/* Class = "UILabel"; text = "DOORS"; ObjectID = "f8E-0B-anI"; */
+"f8E-0B-anI.text" = "عدد الأبواب";
+
+/* Class = "UILabel"; text = "COLOR"; ObjectID = "g5p-7B-fB8"; */
+"g5p-7B-fB8.text" = "اللون";
+
+/* Class = "UILabel"; text = "You can Customise this proposal"; ObjectID = "hU3-2n-0dU"; */
+"hU3-2n-0dU.text" = "You can Customise this proposal";
+
+/* Class = "UILabel"; text = "Sub Categories"; ObjectID = "hic-ZB-M51"; */
+"hic-ZB-M51.text" = "التصنيفات الفرعية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "isu-6U-lWF"; */
+"isu-6U-lWF.text" = "Label";
+
+/* Class = "UILabel"; text = "YEAR"; ObjectID = "m3w-xv-ltt"; */
+"m3w-xv-ltt.text" = "سنة الصنع";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mVN-Kb-QQF"; */
+"mVN-Kb-QQF.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n0a-ff-BZw"; */
+"n0a-ff-BZw.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Ad Tittle"; ObjectID = "nUD-TU-RxV"; */
+"nUD-TU-RxV.placeholder" = "أضف العنوان";
+
+/* Class = "UILabel"; text = "Baby Items"; ObjectID = "nhq-h1-uZi"; */
+"nhq-h1-uZi.text" = "متعلقات الأطفال";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ohr-Gm-9eM"; */
+"ohr-Gm-9eM.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Classifieds"; ObjectID = "q4X-FM-WMy"; */
+"q4X-FM-WMy.normalTitle" = "الإعلانات المبوبة";
+
+/* Class = "UILabel"; text = "Sub Categories"; ObjectID = "qnm-Fu-xLd"; */
+"qnm-Fu-xLd.text" = "التصنيفات الفرعية";
+
+/* Class = "UIButton"; normalTitle = "New Ad"; ObjectID = "qto-Vi-Z5a"; */
+"qto-Vi-Z5a.normalTitle" = "إعلان جديد";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "rD5-98-gtV"; */
+"rD5-98-gtV.placeholder" = "السعر";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "rRF-Zb-Fe5"; */
+"rRF-Zb-Fe5.text" = "الوصف";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rSy-AG-YFx"; */
+"rSy-AG-YFx.text" = "Label";
+
+/* Class = "UILabel"; text = "Report abuse"; ObjectID = "rTE-ev-hPc"; */
+"rTE-ev-hPc.text" = "إبلاغ عن إساءة إستخدام";
+
+/* Class = "UILabel"; text = "YEAR"; ObjectID = "rep-eC-8rs"; */
+"rep-eC-8rs.text" = "سنة الصنع";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "tsz-rj-YCI"; */
+"tsz-rj-YCI.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "Ad Details"; ObjectID = "u4M-aX-I5z"; */
+"u4M-aX-I5z.text" = "إضافة تفاصيل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uFJ-F2-2Sq"; */
+"uFJ-F2-2Sq.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "     Contact Seller    "; ObjectID = "vxC-sW-3EW"; */
+"vxC-sW-3EW.normalTitle" = "التواصل مع البائع";
+
+/* Class = "UILabel"; text = "WARRANTY"; ObjectID = "wTJ-NA-8RY"; */
+"wTJ-NA-8RY.text" = "الضمان";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "wif-Fk-jlO"; */
+"wif-Fk-jlO.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "New Ad "; ObjectID = "wkW-ak-UoK"; */
+"wkW-ak-UoK.text" = "إعلان جديد";
+
+/* Class = "UILabel"; text = "YEAR"; ObjectID = "xKa-At-BGr"; */
+"xKa-At-BGr.text" = "سنة الصنع";
+
+/* Class = "UILabel"; text = "YEAR"; ObjectID = "xwU-cM-E9j"; */
+"xwU-cM-E9j.text" = "سنة الصنع";
+
+/* Class = "UIButton"; normalTitle = "     Contact Seller    "; ObjectID = "xwg-5M-sqv"; */
+"xwg-5M-sqv.normalTitle" = "التواصل مع البائع";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "y54-3l-hC3"; */
+"y54-3l-hC3.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ynk-p8-xIq"; */
+"ynk-p8-xIq.text" = "Label";
+
+/* Class = "UILabel"; text = "You can Customise this proposal"; ObjectID = "zAa-si-GnI"; */
+"zAa-si-GnI.text" = "You can Customise this proposal";
+
+/* Class = "UILabel"; text = "No Of Cylinders"; ObjectID = "zQh-oQ-5J8"; */
+"zQh-oQ-5J8.text" = "عدد الأسطوانات";

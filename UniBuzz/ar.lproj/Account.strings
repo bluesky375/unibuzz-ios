@@ -1,0 +1,294 @@
+
+/* Class = "UIButton"; normalTitle = "  Save "; ObjectID = "0L8-c2-G6P"; */
+"0L8-c2-G6P.normalTitle" = "حفظ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0m6-fu-8oR"; */
+"0m6-fu-8oR.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "1qP-z0-btv"; */
+"1qP-z0-btv.normalTitle" = "تحديث";
+
+/* Class = "UILabel"; text = "Edit CV"; ObjectID = "3fz-sv-Uy0"; */
+"3fz-sv-Uy0.text" = "تعديل السيرة الضاتية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Br-Sh-bnz"; */
+"5Br-Sh-bnz.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Suggestions"; ObjectID = "5TO-2C-6HX"; */
+"5TO-2C-6HX.normalTitle" = "الإقتراحات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Ei-pl-dtP"; */
+"7Ei-pl-dtP.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Current"; ObjectID = "7aw-UO-JYj"; */
+"7aw-UO-JYj.normalTitle" = "الحالي";
+
+/* Class = "UILabel"; text = " Grades"; ObjectID = "9LT-dW-fL2"; */
+"9LT-dW-fL2.text" = "المعدل";
+
+/* Class = "UILabel"; text = "Experience"; ObjectID = "AVq-9f-KUe"; */
+"AVq-9f-KUe.text" = "الخبرات";
+
+/* Class = "UILabel"; text = "asdfsff"; ObjectID = "AaN-6y-rHG"; */
+"AaN-6y-rHG.text" = "asdfsff";
+
+/* Class = "UITextField"; placeholder = "Phone Number *"; ObjectID = "BEg-gr-ajc"; */
+"BEg-gr-ajc.placeholder" = "رقم الهاتف";
+
+/* Class = "UIButton"; normalTitle = "All Friends"; ObjectID = "C2G-rO-XBE"; */
+"C2G-rO-XBE.normalTitle" = "كل الأصدقاء";
+
+/* Class = "UILabel"; text = "My CV"; ObjectID = "CvZ-T8-HaS"; */
+"CvZ-T8-HaS.text" = "سيرتي الذاتية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Db0-2Y-hMW"; */
+"Db0-2Y-hMW.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "FUH-7I-uuP"; */
+"FUH-7I-uuP.normalTitle" = "تحديث";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "GVl-fx-l9g"; */
+"GVl-fx-l9g.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "Reference"; ObjectID = "Gqm-o8-ww7"; */
+"Gqm-o8-ww7.text" = "التوصية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HMd-cd-7VX"; */
+"HMd-cd-7VX.text" = "Label";
+
+/* Class = "UILabel"; text = "Make sure to provide your real photo since this is your CV and it will be shows to the public"; ObjectID = "I4M-zt-lpH"; */
+"I4M-zt-lpH.text" = "إحرص على أن تكون صورتك الشخصية واضحة وصحيحة، سيتم إستخدام الصورة في كافة طلبات التوظيف";
+
+/* Class = "UIButton"; normalTitle = "Posts"; ObjectID = "IUf-XE-IRd"; */
+"IUf-XE-IRd.normalTitle" = "المنشورات";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "IlW-Dq-i6K"; */
+"IlW-Dq-i6K.normalTitle" = "حفظ";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "J81-uf-Yxr"; */
+"J81-uf-Yxr.placeholder" = "Address";
+
+/* Class = "UIButton"; normalTitle = "Saved"; ObjectID = "JOw-b8-APM"; */
+"JOw-b8-APM.normalTitle" = "محفوظ";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "JXW-RD-jEj"; */
+"JXW-RD-jEj.normalTitle" = "إحسب";
+
+/* Class = "UIButton"; normalTitle = "  Save "; ObjectID = "Jeu-5x-pFr"; */
+"Jeu-5x-pFr.normalTitle" = "  حفظ ";
+
+/* Class = "UILabel"; text = "Course"; ObjectID = "LQF-c3-6fg"; */
+"LQF-c3-6fg.text" = "المساق";
+
+/* Class = "UITextField"; placeholder = "Email*"; ObjectID = "LSP-gj-NkI"; */
+"LSP-gj-NkI.placeholder" = "البريد الإلكتروني*";
+
+/* Class = "UITextField"; placeholder = "Language*"; ObjectID = "Lyt-QY-NZn"; */
+"Lyt-QY-NZn.placeholder" = "اللغة*";
+
+/* Class = "UILabel"; text = "Note : These courses related to your tasks .  This will not add in University banner!"; ObjectID = "MEH-8Y-kmH"; */
+"MEH-8Y-kmH.text" = "Note : These courses related to your tasks .  This will not add in University banner!";
+
+/* Class = "UITextField"; placeholder = "Language *"; ObjectID = "MUi-sO-43N"; */
+"MUi-sO-43N.placeholder" = "اللغة*";
+
+/* Class = "UIButton"; normalTitle = " + Add "; ObjectID = "MXB-jA-XWI"; */
+"MXB-jA-XWI.normalTitle" = " + إضافة";
+
+/* Class = "UILabel"; text = "Add Course"; ObjectID = "NM9-a1-Vmk"; */
+"NM9-a1-Vmk.text" = "إضافة مساق";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "NOb-T5-zbk"; */
+"NOb-T5-zbk.placeholder" = "الإسم الأول";
+
+/* Class = "UILabel"; text = "About Me *"; ObjectID = "NnG-6t-PjA"; */
+"NnG-6t-PjA.text" = "نبذة عني";
+
+/* Class = "UILabel"; text = "Reference"; ObjectID = "Ocw-ea-e9U"; */
+"Ocw-ea-e9U.text" = "التوصية";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "OkM-v2-o59"; */
+"OkM-v2-o59.normalTitle" = "تحديث";
+
+/* Class = "UIButton"; normalTitle = "Build Your CV"; ObjectID = "R6O-ye-46e"; */
+"R6O-ye-46e.normalTitle" = "إنشئ سيرتك الذاتية";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "Ryy-rC-acY"; */
+"Ryy-rC-acY.placeholder" = "رقم الهاتف";
+
+/* Class = "UITextField"; placeholder = "LinkedIn"; ObjectID = "SY2-Sz-6Er"; */
+"SY2-Sz-6Er.placeholder" = "LinkedIn";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ut3-kh-JIH"; */
+"Ut3-kh-JIH.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Website or Portfolio Link"; ObjectID = "VId-GW-GTW"; */
+"VId-GW-GTW.placeholder" = "الموقع الإلكتروني أو معرض الأعمال";
+
+/* Class = "UIButton"; normalTitle = "Previous"; ObjectID = "YPq-5H-x2m"; */
+"YPq-5H-x2m.normalTitle" = "السابق";
+
+/* Class = "UILabel"; text = "My Course"; ObjectID = "YpT-kO-248"; */
+"YpT-kO-248.text" = "مساقاتي";
+
+/* Class = "UILabel"; text = "Make sure to provide your real photo since this is your CV and it will be shows to the public"; ObjectID = "Z1X-3E-Cq5"; */
+"Z1X-3E-Cq5.text" = "إحرص على أن تكون صورتك الشخصية واضحة وصحيحة، سيتم إستخدام الصورة في كافة طلبات التوظيف";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "ZDn-mx-vNz"; */
+"ZDn-mx-vNz.placeholder" = "العنوان";
+
+/* Class = "UILabel"; text = "Skills"; ObjectID = "ZMh-VX-ca9"; */
+"ZMh-VX-ca9.text" = "المهارات";
+
+/* Class = "UILabel"; text = "Referal Code"; ObjectID = "Zfb-u2-Ty2"; */
+"Zfb-u2-Ty2.text" = "رمز الإحالة";
+
+/* Class = "UILabel"; text = "Credits"; ObjectID = "ZnS-zQ-7RL"; */
+"ZnS-zQ-7RL.text" = "عدد الساعات";
+
+/* Class = "UILabel"; text = "Objective"; ObjectID = "ao1-4R-NFG"; */
+"ao1-4R-NFG.text" = "الأهداف";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bEN-Gu-5fV"; */
+"bEN-Gu-5fV.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Total Semester CH"; ObjectID = "bcw-LE-FnQ"; */
+"bcw-LE-FnQ.placeholder" = "مجموع عدد الساعات";
+
+/* Class = "UIButton"; normalTitle = "follow"; ObjectID = "c7O-bV-S4M"; */
+"c7O-bV-S4M.normalTitle" = "متابعة";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "caJ-Yf-So9"; */
+"caJ-Yf-So9.normalTitle" = "إضافة";
+
+/* Class = "UILabel"; text = "Contact Details"; ObjectID = "d3A-aY-0d6"; */
+"d3A-aY-0d6.text" = "معلومات التواصل";
+
+/* Class = "UILabel"; text = "Steps away from creating CV"; ObjectID = "dPY-Os-Fnq"; */
+"dPY-Os-Fnq.text" = "إبدأ بتعبئة بعض الحقول هنا وهناك وستكون جاهز للانطلاق بمشوارك المهني";
+
+/* Class = "UILabel"; text = "Experience"; ObjectID = "e3D-Lv-jeE"; */
+"e3D-Lv-jeE.text" = "الخبرات العملية";
+
+/* Class = "UILabel"; text = "CGPA"; ObjectID = "eA3-gV-32X"; */
+"eA3-gV-32X.text" = "المعدل التراكمي الكلي";
+
+/* Class = "UILabel"; text = "Mohammed Khalid"; ObjectID = "eg1-OB-pnO"; */
+"eg1-OB-pnO.text" = "Mohammed Khalid";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "eho-YJ-wG7"; */
+"eho-YJ-wG7.text" = "الإعدادات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gCp-Vx-lva"; */
+"gCp-Vx-lva.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Ready to go"; ObjectID = "gF9-sk-1jW"; */
+"gF9-sk-1jW.normalTitle" = "إنشاء";
+
+/* Class = "UIButton"; normalTitle = "Requests"; ObjectID = "gac-vV-RVY"; */
+"gac-vV-RVY.normalTitle" = "الطلبات";
+
+/* Class = "UITextField"; placeholder = "Website or Portfolio Link"; ObjectID = "gcM-bC-Hey"; */
+"gcM-bC-Hey.placeholder" = "الموقع الإلكتروني أو معرض الأعمال";
+
+/* Class = "UILabel"; text = "Contact Details"; ObjectID = "gzv-Yj-7MM"; */
+"gzv-Yj-7MM.text" = "معلومات التواصل";
+
+/* Class = "UIButton"; normalTitle = "Friends"; ObjectID = "h68-VO-RTf"; */
+"h68-VO-RTf.normalTitle" = "الأصدقاء";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hbC-xH-hFU"; */
+"hbC-xH-hFU.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "iHv-FF-BLt"; */
+"iHv-FF-BLt.placeholder" = "الإسم الأخير";
+
+/* Class = "UILabel"; text = "Education"; ObjectID = "iTh-Pr-fsD"; */
+"iTh-Pr-fsD.text" = "الشهادات التعليمية";
+
+/* Class = "UILabel"; text = "My GPA"; ObjectID = "jEt-Ka-FTH"; */
+"jEt-Ka-FTH.text" = "معدلي";
+
+/* Class = "UILabel"; text = "Edit CV"; ObjectID = "jGe-1N-LM1"; */
+"jGe-1N-LM1.text" = "تعديل السيرة الذاتية";
+
+/* Class = "UILabel"; text = "Create CV"; ObjectID = "mPa-w8-QEc"; */
+"mPa-w8-QEc.text" = "إنشاء سيرتك الذاتية";
+
+/* Class = "UILabel"; text = "Semester GPA"; ObjectID = "mYz-0S-FQX"; */
+"mYz-0S-FQX.text" = "معدل الفصل";
+
+/* Class = "UITextField"; placeholder = "LinkedIn"; ObjectID = "nJ0-Vc-oqM"; */
+"nJ0-Vc-oqM.placeholder" = "LinkedIn";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "oLP-VB-Vx9"; */
+"oLP-VB-Vx9.text" = "تعديل الملف الشخصي";
+
+/* Class = "UILabel"; text = "Overall CGPA"; ObjectID = "oVE-wp-EGI"; */
+"oVE-wp-EGI.text" = "المعدل التراكمي الكلي ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pc4-JN-mLS"; */
+"pc4-JN-mLS.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Phone Number*"; ObjectID = "plL-d8-iov"; */
+"plL-d8-iov.placeholder" = "رقم الهاتف*";
+
+/* Class = "UITextField"; placeholder = "Email*"; ObjectID = "qCa-fJ-6ev"; */
+"qCa-fJ-6ev.placeholder" = "البريد الإلكتروني*";
+
+/* Class = "UILabel"; text = "Education"; ObjectID = "qlP-wB-Qt7"; */
+"qlP-wB-Qt7.text" = "الشهادات التعليمية";
+
+/* Class = "UILabel"; text = "Objective"; ObjectID = "rCv-zR-ZaC"; */
+"rCv-zR-ZaC.text" = "الأهداف";
+
+/* Class = "UIButton"; normalTitle = "GPA Simulator"; ObjectID = "s1u-9u-Q3U"; */
+"s1u-9u-Q3U.normalTitle" = "GPA Simulator";
+
+/* Class = "UILabel"; text = "Skills"; ObjectID = "sef-4r-jxy"; */
+"sef-4r-jxy.text" = "الخبرات العملية";
+
+/* Class = "UIButton"; normalTitle = "Select Nationality*"; ObjectID = "sif-um-Sxm"; */
+"sif-um-Sxm.normalTitle" = "إختر الجنسية*";
+
+/* Class = "UITextField"; placeholder = "Add Email"; ObjectID = "uJx-En-Ay4"; */
+"uJx-En-Ay4.placeholder" = "إضافة البريد الإلكتروني";
+
+/* Class = "UIButton"; normalTitle = "Account"; ObjectID = "una-Ay-Cx9"; */
+"una-Ay-Cx9.normalTitle" = "الحساب";
+
+/* Class = "UIButton"; normalTitle = "Few  Steps more"; ObjectID = "vY7-cU-3KP"; */
+"vY7-cU-3KP.normalTitle" = "خطوات إضافية بسيطة";
+
+/* Class = "UIButton"; normalTitle = "Select Nationality*"; ObjectID = "wCq-2L-2DU"; */
+"wCq-2L-2DU.normalTitle" = "إختر الجنسية*";
+
+/* Class = "UIButton"; normalTitle = "+Add Course"; ObjectID = "wKQ-rD-ljA"; */
+"wKQ-rD-ljA.normalTitle" = "+ إضافة مساق";
+
+/* Class = "UITextField"; placeholder = "Date of Birth"; ObjectID = "wLY-yl-mgo"; */
+"wLY-yl-mgo.placeholder" = "تاريخ الولادة";
+
+/* Class = "UIButton"; normalTitle = "Unfriend"; ObjectID = "wYU-60-XOm"; */
+"wYU-60-XOm.normalTitle" = "إلغاء ";
+
+/* Class = "UITextField"; placeholder = "Current GPA"; ObjectID = "xFQ-45-WGf"; */
+"xFQ-45-WGf.placeholder" = "المعدل الحالي";
+
+/* Class = "UILabel"; text = "About Me*"; ObjectID = "yQA-Hz-Mf5"; */
+"yQA-Hz-Mf5.text" = "نبذة عني";
+
+/* Class = "UILabel"; text = "Adding primary email helps you to get all system notifications on your regular email , But you must use your university email to sign in."; ObjectID = "yU0-7U-tdY"; */
+"yU0-7U-tdY.text" = "ستصلك كافة الإشعارات على البريد الإلكتروني الأساسي ، لتسجيل الدخول يجب إستخدام البريد الإلكتروني الجامعي";
+
+/* Class = "UITextField"; placeholder = "Confirm  new password"; ObjectID = "yVT-hD-au5"; */
+"yVT-hD-au5.placeholder" = "تأكيد كلمة المرور الجديدة";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "yYd-IV-jaI"; */
+"yYd-IV-jaI.placeholder" = "كلمة مرور جديدة";
+
+/* Class = "UILabel"; text = "Create CV"; ObjectID = "zNI-Pf-sqE"; */
+"zNI-Pf-sqE.text" = "إنشاء سيرتك الذاتية";
+
+/* Class = "UILabel"; text = "4.0"; ObjectID = "zbk-fF-UTc"; */
+"zbk-fF-UTc.text" = "4.0";

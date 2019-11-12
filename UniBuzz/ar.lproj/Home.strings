@@ -1,0 +1,321 @@
+
+/* Class = "UILabel"; text = "uni.buzz"; ObjectID = "03s-G8-TIn"; */
+"03s-G8-TIn.text" = "uni.buzz";
+
+/* Class = "UILabel"; text = "Hateful or abusive content"; ObjectID = "0Xq-Ie-42V"; */
+"0Xq-Ie-42V.text" = "محتوى يحض على الكراهية";
+
+/* Class = "UILabel"; text = "New Post"; ObjectID = "0xY-rm-Bpz"; */
+"0xY-rm-Bpz.text" = "منشور جديد";
+
+/* Class = "UILabel"; text = "Post "; ObjectID = "1Un-0R-34b"; */
+"1Un-0R-34b.text" = "نشر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1b1-wU-XhI"; */
+"1b1-wU-XhI.text" = "Label";
+
+/* Class = "UILabel"; text = "Created on 11 May"; ObjectID = "1pM-Js-O8O"; */
+"1pM-Js-O8O.text" = "Created on 11 May";
+
+/* Class = "UILabel"; text = "Option 1 "; ObjectID = "22W-kQ-GQ9"; */
+"22W-kQ-GQ9.text" = "خيار 1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2XD-ou-44q"; */
+"2XD-ou-44q.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "+ Post"; ObjectID = "2Zv-tj-grI"; */
+"2Zv-tj-grI.normalTitle" = "منشور+";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "2dd-g9-bIb"; */
+"2dd-g9-bIb.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "group  :"; ObjectID = "2fD-ah-yiO"; */
+"2fD-ah-yiO.text" = ":المجموعة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2r7-0n-EgI"; */
+"2r7-0n-EgI.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Group Name"; ObjectID = "3iA-3K-F3r"; */
+"3iA-3K-F3r.placeholder" = "إسم المجموعة";
+
+/* Class = "UILabel"; text = "Option 2 "; ObjectID = "3wq-4r-RFf"; */
+"3wq-4r-RFf.text" = "خيار 2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3y7-Cv-plo"; */
+"3y7-Cv-plo.text" = "Label";
+
+/* Class = "UILabel"; text = "Select post type :"; ObjectID = "4W1-sG-XLu"; */
+"4W1-sG-XLu.text" = ":إختر نوع المنشور";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "5Ly-Gd-HPr"; */
+"5Ly-Gd-HPr.normalTitle" = "إضافة";
+
+/* Class = "UILabel"; text = "Sexual content"; ObjectID = "6IB-iy-wiM"; */
+"6IB-iy-wiM.text" = "محتوى غير لائق";
+
+/* Class = "UILabel"; text = "Provide a group name and  optional group icon"; ObjectID = "6uG-O4-hz0"; */
+"6uG-O4-hz0.text" = "أضف اسم المجموعة والأيقونة";
+
+/* Class = "UILabel"; text = "Option 3"; ObjectID = "75k-ky-syy"; */
+"75k-ky-syy.text" = "خيار 3";
+
+/* Class = "UIButton"; normalTitle = "Update Post Now"; ObjectID = "76d-ya-Ni1"; */
+"76d-ya-Ni1.normalTitle" = "تحديث المنشور";
+
+/* Class = "UILabel"; text = "group  :"; ObjectID = "7Wa-JN-Smt"; */
+"7Wa-JN-Smt.text" = ":المجموعة";
+
+/* Class = "UILabel"; text = "Participants"; ObjectID = "7hV-pP-hGj"; */
+"7hV-pP-hGj.text" = "الأعضاء";
+
+/* Class = "UILabel"; text = "Report Post"; ObjectID = "BfZ-k9-9uy"; */
+"BfZ-k9-9uy.text" = "إبلاغ عن المنشور";
+
+/* Class = "UILabel"; text = "Select post type :"; ObjectID = "CUM-A0-3ni"; */
+"CUM-A0-3ni.text" = ":إختر نوع المنشور";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "CpN-ae-BP8"; */
+"CpN-ae-BP8.text" = "رسالة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CuH-FE-UBw"; */
+"CuH-FE-UBw.text" = "Label";
+
+/* Class = "UILabel"; text = "Post as Anonymous "; ObjectID = "EfQ-C9-E80"; */
+"EfQ-C9-E80.text" = "إخفاء الهوية";
+
+/* Class = "UILabel"; text = "Sharjah University"; ObjectID = "EoE-oA-9Xb"; */
+"EoE-oA-9Xb.text" = "Sharjah University";
+
+/* Class = "UILabel"; text = "Select post type :"; ObjectID = "F7y-kw-gE4"; */
+"F7y-kw-gE4.text" = ":إختر نوع المنشور";
+
+/* Class = "UILabel"; text = "Poll"; ObjectID = "FV3-yw-ZNR"; */
+"FV3-yw-ZNR.text" = "تصويت";
+
+/* Class = "UILabel"; text = "group  :"; ObjectID = "HCe-Iq-qqF"; */
+"HCe-Iq-qqF.text" = ":المجموعة";
+
+/* Class = "UIButton"; normalTitle = "Posts"; ObjectID = "HTA-W9-ajK"; */
+"HTA-W9-ajK.normalTitle" = "منشورات";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Hdp-FA-5EN"; */
+"Hdp-FA-5EN.normalTitle" = "إلغاء";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "HjC-G4-t6Q"; */
+"HjC-G4-t6Q.normalTitle" = "منشور";
+
+/* Class = "UILabel"; text = "10 Members"; ObjectID = "Kgu-qb-A9K"; */
+"Kgu-qb-A9K.text" = "10 Members";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "Klg-Xp-XUT"; */
+"Klg-Xp-XUT.normalTitle" = "منشور";
+
+/* Class = "UILabel"; text = "Option 4"; ObjectID = "L1z-kg-JZC"; */
+"L1z-kg-JZC.text" = "خيار 4";
+
+/* Class = "UILabel"; text = "Hateful or abusive content"; ObjectID = "MFd-T6-wn0"; */
+"MFd-T6-wn0.text" = "محتوى يحض على الكراهية";
+
+/* Class = "UILabel"; text = "disable comment "; ObjectID = "MNx-8a-eDJ"; */
+"MNx-8a-eDJ.text" = "إلغاء المناقشة والتعليقات";
+
+/* Class = "UIButton"; normalTitle = "Add More"; ObjectID = "Nem-Fk-ptE"; */
+"Nem-Fk-ptE.normalTitle" = "إضافة خيار اخر";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "PV2-J4-nYM"; */
+"PV2-J4-nYM.normalTitle" = "إنشاء";
+
+/* Class = "UIButton"; normalTitle = "Add More"; ObjectID = "Qdx-xJ-BZM"; */
+"Qdx-xJ-BZM.normalTitle" = "إضافة خيار اخر";
+
+/* Class = "UILabel"; text = "Edit Post"; ObjectID = "REz-wQ-FRi"; */
+"REz-wQ-FRi.text" = "تعديل المنشور";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ReI-Bt-xl9"; */
+"ReI-Bt-xl9.text" = "Label";
+
+/* Class = "UILabel"; text = "Report Post"; ObjectID = "Rko-BP-QxB"; */
+"Rko-BP-QxB.text" = "إبلاغ عن المنشور";
+
+/* Class = "UILabel"; text = "Post as Anonymous"; ObjectID = "S3l-Ub-dUY"; */
+"S3l-Ub-dUY.text" = "إخفاء الهوية";
+
+/* Class = "UILabel"; text = "Option 5"; ObjectID = "SnE-q7-frA"; */
+"SnE-q7-frA.text" = "خيار 5";
+
+/* Class = "UILabel"; text = "Provide a group name and  optional group icon"; ObjectID = "TK2-1z-7g2"; */
+"TK2-1z-7g2.text" = "أضف اسم المجموعة والأيقونة";
+
+/* Class = "UILabel"; text = "Sharjah University"; ObjectID = "TsJ-0j-ZsM"; */
+"TsJ-0j-ZsM.text" = "Sharjah University";
+
+/* Class = "UILabel"; text = "Sexual content"; ObjectID = "VBZ-OX-xUh"; */
+"VBZ-OX-xUh.text" = "محتوى غير لائق";
+
+/* Class = "UIButton"; normalTitle = "Post Now"; ObjectID = "VKX-9l-IDR"; */
+"VKX-9l-IDR.normalTitle" = "نشر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vcy-Yw-dY8"; */
+"Vcy-Yw-dY8.text" = "Label";
+
+/* Class = "UILabel"; text = "Option 3"; ObjectID = "Vsm-m4-WHJ"; */
+"Vsm-m4-WHJ.text" = "خيار 3";
+
+/* Class = "UIButton"; normalTitle = "Select Group"; ObjectID = "VwD-wz-4vS"; */
+"VwD-wz-4vS.normalTitle" = "إختر المجموعة";
+
+/* Class = "UILabel"; text = "Option 5"; ObjectID = "W2f-r0-sWA"; */
+"W2f-r0-sWA.text" = "خيار 5";
+
+/* Class = "UILabel"; text = "uni.buzz"; ObjectID = "WE8-TQ-gdT"; */
+"WE8-TQ-gdT.text" = "uni.buzz";
+
+/* Class = "UIButton"; normalTitle = "Member"; ObjectID = "WGq-3D-KRz"; */
+"WGq-3D-KRz.normalTitle" = "عضو";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "Whf-A9-IBB"; */
+"Whf-A9-IBB.normalTitle" = "نشر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YgW-Fm-6IH"; */
+"YgW-Fm-6IH.text" = "Label";
+
+/* Class = "UILabel"; text = "Edit Post"; ObjectID = "YhC-3h-cQ7"; */
+"YhC-3h-cQ7.text" = "تعديل المنشور";
+
+/* Class = "UILabel"; text = "Select the group * :"; ObjectID = "Ysi-jJ-qMh"; */
+"Ysi-jJ-qMh.text" = ":إختر المجموعة*";
+
+/* Class = "UILabel"; text = "Option 2 "; ObjectID = "ZNG-el-ouc"; */
+"ZNG-el-ouc.text" = "خيار 2";
+
+/* Class = "UIButton"; normalTitle = "+ Post"; ObjectID = "ZOB-r0-AkX"; */
+"ZOB-r0-AkX.normalTitle" = "منشور +";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "aNb-Aq-bP9"; */
+"aNb-Aq-bP9.normalTitle" = "تم";
+
+/* Class = "UITextField"; placeholder = "Group Name"; ObjectID = "bk0-IR-lqv"; */
+"bk0-IR-lqv.placeholder" = "إسم المجموعة";
+
+/* Class = "UILabel"; text = "Report Post"; ObjectID = "c5P-fh-4of"; */
+"c5P-fh-4of.text" = "إبلاغ عن المنشور";
+
+/* Class = "UILabel"; text = "Poll "; ObjectID = "cMS-Ts-LvA"; */
+"cMS-Ts-LvA.text" = "تصويت";
+
+/* Class = "UILabel"; text = "disable comment "; ObjectID = "cMc-p1-xkz"; */
+"cMc-p1-xkz.text" = "إلغاء المناقشة والتعليقات";
+
+/* Class = "UILabel"; text = "Sexual content"; ObjectID = "cnT-Nt-Ph6"; */
+"cnT-Nt-Ph6.text" = "محتوى غر لائق";
+
+/* Class = "UILabel"; text = "The group description is visable to participants of the group and the people invited to the group"; ObjectID = "cri-gB-Lsb"; */
+"cri-gB-Lsb.text" = "سيكون وصف المجموعة ظاهرا للأعضاء والأشخاص المدعوين للإنضمام الى المجموعة";
+
+/* Class = "UILabel"; text = "Choose friends to start communication"; ObjectID = "dcD-sH-AoA"; */
+"dcD-sH-AoA.text" = "إختر احد الأصدقاء لبدء المحادثة";
+
+/* Class = "UIButton"; normalTitle = "New Group"; ObjectID = "dkZ-LE-xn9"; */
+"dkZ-LE-xn9.normalTitle" = "مجموعة جديدة ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ei2-jG-zHs"; */
+"ei2-jG-zHs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "eq1-QT-OMl"; */
+"eq1-QT-OMl.normalTitle" = "إلغاء";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "fVW-Dz-DXH"; */
+"fVW-Dz-DXH.normalTitle" = "إضافة";
+
+/* Class = "UILabel"; text = "Post"; ObjectID = "gr0-L0-RGx"; */
+"gr0-L0-RGx.text" = "المنشور";
+
+/* Class = "UIButton"; normalTitle = "Select Group"; ObjectID = "heg-Mo-Vkb"; */
+"heg-Mo-Vkb.normalTitle" = "إختر المجموعة";
+
+/* Class = "UIButton"; normalTitle = "Select Group"; ObjectID = "hom-6Z-G4J"; */
+"hom-6Z-G4J.normalTitle" = "إختر المجموعة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i94-7S-y6u"; */
+"i94-7S-y6u.text" = "Label";
+
+/* Class = "UILabel"; text = "Option 4"; ObjectID = "kHP-H6-VJT"; */
+"kHP-H6-VJT.text" = "خيار 4";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "klP-Xr-bdR"; */
+"klP-Xr-bdR.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "Hateful or abusive content"; ObjectID = "l8e-aM-96M"; */
+"l8e-aM-96M.text" = "محتوى يحض على الكراهية";
+
+/* Class = "UILabel"; text = "Replying to "; ObjectID = "lWc-z9-Ib2"; */
+"lWc-z9-Ib2.text" = "الرد على";
+
+/* Class = "UIButton"; normalTitle = "+ Group"; ObjectID = "mNb-ah-oaE"; */
+"mNb-ah-oaE.normalTitle" = "مجموعة +";
+
+/* Class = "UIButton"; normalTitle = "Create Group"; ObjectID = "neb-E8-RjF"; */
+"neb-E8-RjF.normalTitle" = "إنشاء مجموعة";
+
+/* Class = "UIButton"; normalTitle = "Update Post Now"; ObjectID = "nzS-Se-FSA"; */
+"nzS-Se-FSA.normalTitle" = "تحديث المنشور";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "p2d-rl-1w1"; */
+"p2d-rl-1w1.placeholder" = "الوصف";
+
+/* Class = "UILabel"; text = "uni.buzz"; ObjectID = "qSx-18-qsP"; */
+"qSx-18-qsP.text" = "uni.buzz";
+
+/* Class = "UILabel"; text = "Spam or misleading"; ObjectID = "qUy-W8-bFa"; */
+"qUy-W8-bFa.text" = "محتوى زائف";
+
+/* Class = "UILabel"; text = "Replying to "; ObjectID = "r49-ox-GWF"; */
+"r49-ox-GWF.text" = "الرد على";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "rAf-VK-HA9"; */
+"rAf-VK-HA9.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rFQ-RS-jXK"; */
+"rFQ-RS-jXK.text" = "Label";
+
+/* Class = "UILabel"; text = "Spam or misleading"; ObjectID = "rNb-s6-DAf"; */
+"rNb-s6-DAf.text" = "محتوى زائف";
+
+/* Class = "UILabel"; text = "Option 1 "; ObjectID = "sXl-jf-9Sc"; */
+"sXl-jf-9Sc.text" = "خيار 1";
+
+/* Class = "UILabel"; text = "Majid kamal"; ObjectID = "srV-jc-rfV"; */
+"srV-jc-rfV.text" = "Majid kamal";
+
+/* Class = "UILabel"; text = "Spam or misleading"; ObjectID = "tZf-Z0-R6B"; */
+"tZf-Z0-R6B.text" = "محتوى زائف";
+
+/* Class = "UILabel"; text = "disable comment "; ObjectID = "tmH-YC-nP1"; */
+"tmH-YC-nP1.text" = "إلغاء المناقشة والتعليقات";
+
+/* Class = "UILabel"; text = "Post as Anonymous?"; ObjectID = "wNi-al-eHN"; */
+"wNi-al-eHN.text" = "إخفاء الهوية";
+
+/* Class = "UIButton"; normalTitle = "+ Post"; ObjectID = "wVP-28-AM2"; */
+"wVP-28-AM2.normalTitle" = "منشور +";
+
+/* Class = "UILabel"; text = "New Group"; ObjectID = "x8N-h5-quQ"; */
+"x8N-h5-quQ.text" = "مجموعة جديدة";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "xaG-k1-1aJ"; */
+"xaG-k1-1aJ.normalTitle" = "إرسال";
+
+/* Class = "UILabel"; text = "uni.buzz"; ObjectID = "xq8-g8-mjU"; */
+"xq8-g8-mjU.text" = "uni.buzz";
+
+/* Class = "UILabel"; text = "Select the group * :"; ObjectID = "yTK-yA-VSW"; */
+"yTK-yA-VSW.text" = ": إختر المجموعة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yVl-FY-H3f"; */
+"yVl-FY-H3f.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "z5P-eo-39p"; */
+"z5P-eo-39p.normalTitle" = "تم";
+
+/* Class = "UIButton"; normalTitle = "File"; ObjectID = "zhT-c2-xaS"; */
+"zhT-c2-xaS.normalTitle" = "ملف";

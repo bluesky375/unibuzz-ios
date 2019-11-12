@@ -1,0 +1,321 @@
+
+/* Class = "UILabel"; text = "uni.buzz"; ObjectID = "03s-G8-TIn"; */
+"03s-G8-TIn.text" = "uni.buzz";
+
+/* Class = "UILabel"; text = "Hateful or abusive content"; ObjectID = "0Xq-Ie-42V"; */
+"0Xq-Ie-42V.text" = "Hateful or abusive content";
+
+/* Class = "UILabel"; text = "New Post"; ObjectID = "0xY-rm-Bpz"; */
+"0xY-rm-Bpz.text" = "New Post";
+
+/* Class = "UILabel"; text = "Post "; ObjectID = "1Un-0R-34b"; */
+"1Un-0R-34b.text" = "Post ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1b1-wU-XhI"; */
+"1b1-wU-XhI.text" = "Label";
+
+/* Class = "UILabel"; text = "Created on 11 May"; ObjectID = "1pM-Js-O8O"; */
+"1pM-Js-O8O.text" = "Created on 11 May";
+
+/* Class = "UILabel"; text = "Option 1 "; ObjectID = "22W-kQ-GQ9"; */
+"22W-kQ-GQ9.text" = "Option 1 ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2XD-ou-44q"; */
+"2XD-ou-44q.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "+ Post"; ObjectID = "2Zv-tj-grI"; */
+"2Zv-tj-grI.normalTitle" = "+ Post";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "2dd-g9-bIb"; */
+"2dd-g9-bIb.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "group  :"; ObjectID = "2fD-ah-yiO"; */
+"2fD-ah-yiO.text" = "group  :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2r7-0n-EgI"; */
+"2r7-0n-EgI.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Group Name"; ObjectID = "3iA-3K-F3r"; */
+"3iA-3K-F3r.placeholder" = "Group Name";
+
+/* Class = "UILabel"; text = "Option 2 "; ObjectID = "3wq-4r-RFf"; */
+"3wq-4r-RFf.text" = "Option 2 ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3y7-Cv-plo"; */
+"3y7-Cv-plo.text" = "Label";
+
+/* Class = "UILabel"; text = "Select post type :"; ObjectID = "4W1-sG-XLu"; */
+"4W1-sG-XLu.text" = "Select post type :";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "5Ly-Gd-HPr"; */
+"5Ly-Gd-HPr.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Sexual content"; ObjectID = "6IB-iy-wiM"; */
+"6IB-iy-wiM.text" = "Sexual content";
+
+/* Class = "UILabel"; text = "Provide a group name and  optional group icon"; ObjectID = "6uG-O4-hz0"; */
+"6uG-O4-hz0.text" = "Provide a group name and  optional group icon";
+
+/* Class = "UILabel"; text = "Option 3"; ObjectID = "75k-ky-syy"; */
+"75k-ky-syy.text" = "Option 3";
+
+/* Class = "UIButton"; normalTitle = "Update Post Now"; ObjectID = "76d-ya-Ni1"; */
+"76d-ya-Ni1.normalTitle" = "Update Post Now";
+
+/* Class = "UILabel"; text = "group  :"; ObjectID = "7Wa-JN-Smt"; */
+"7Wa-JN-Smt.text" = "group  :";
+
+/* Class = "UILabel"; text = "Participants"; ObjectID = "7hV-pP-hGj"; */
+"7hV-pP-hGj.text" = "Participants";
+
+/* Class = "UILabel"; text = "Report Post"; ObjectID = "BfZ-k9-9uy"; */
+"BfZ-k9-9uy.text" = "Report Post";
+
+/* Class = "UILabel"; text = "Select post type :"; ObjectID = "CUM-A0-3ni"; */
+"CUM-A0-3ni.text" = "Select post type :";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "CpN-ae-BP8"; */
+"CpN-ae-BP8.text" = "Message";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CuH-FE-UBw"; */
+"CuH-FE-UBw.text" = "Label";
+
+/* Class = "UILabel"; text = "Post as Anonymous "; ObjectID = "EfQ-C9-E80"; */
+"EfQ-C9-E80.text" = "Post as Anonymous ";
+
+/* Class = "UILabel"; text = "Sharjah University"; ObjectID = "EoE-oA-9Xb"; */
+"EoE-oA-9Xb.text" = "Sharjah University";
+
+/* Class = "UILabel"; text = "Select post type :"; ObjectID = "F7y-kw-gE4"; */
+"F7y-kw-gE4.text" = "Select post type :";
+
+/* Class = "UILabel"; text = "Poll"; ObjectID = "FV3-yw-ZNR"; */
+"FV3-yw-ZNR.text" = "Poll";
+
+/* Class = "UILabel"; text = "group  :"; ObjectID = "HCe-Iq-qqF"; */
+"HCe-Iq-qqF.text" = "group  :";
+
+/* Class = "UIButton"; normalTitle = "Posts"; ObjectID = "HTA-W9-ajK"; */
+"HTA-W9-ajK.normalTitle" = "Posts";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Hdp-FA-5EN"; */
+"Hdp-FA-5EN.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "HjC-G4-t6Q"; */
+"HjC-G4-t6Q.normalTitle" = "Post";
+
+/* Class = "UILabel"; text = "10 Members"; ObjectID = "Kgu-qb-A9K"; */
+"Kgu-qb-A9K.text" = "10 Members";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "Klg-Xp-XUT"; */
+"Klg-Xp-XUT.normalTitle" = "Post";
+
+/* Class = "UILabel"; text = "Option 4"; ObjectID = "L1z-kg-JZC"; */
+"L1z-kg-JZC.text" = "Option 4";
+
+/* Class = "UILabel"; text = "Hateful or abusive content"; ObjectID = "MFd-T6-wn0"; */
+"MFd-T6-wn0.text" = "Hateful or abusive content";
+
+/* Class = "UILabel"; text = "disable comment "; ObjectID = "MNx-8a-eDJ"; */
+"MNx-8a-eDJ.text" = "disable comment ";
+
+/* Class = "UIButton"; normalTitle = "Add More"; ObjectID = "Nem-Fk-ptE"; */
+"Nem-Fk-ptE.normalTitle" = "Add More";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "PV2-J4-nYM"; */
+"PV2-J4-nYM.normalTitle" = "Create";
+
+/* Class = "UIButton"; normalTitle = "Add More"; ObjectID = "Qdx-xJ-BZM"; */
+"Qdx-xJ-BZM.normalTitle" = "Add More";
+
+/* Class = "UILabel"; text = "Edit Post"; ObjectID = "REz-wQ-FRi"; */
+"REz-wQ-FRi.text" = "Edit Post";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ReI-Bt-xl9"; */
+"ReI-Bt-xl9.text" = "Label";
+
+/* Class = "UILabel"; text = "Report Post"; ObjectID = "Rko-BP-QxB"; */
+"Rko-BP-QxB.text" = "Report Post";
+
+/* Class = "UILabel"; text = "Post as Anonymous"; ObjectID = "S3l-Ub-dUY"; */
+"S3l-Ub-dUY.text" = "Post as Anonymous";
+
+/* Class = "UILabel"; text = "Option 5"; ObjectID = "SnE-q7-frA"; */
+"SnE-q7-frA.text" = "Option 5";
+
+/* Class = "UILabel"; text = "Provide a group name and  optional group icon"; ObjectID = "TK2-1z-7g2"; */
+"TK2-1z-7g2.text" = "Provide a group name and  optional group icon";
+
+/* Class = "UILabel"; text = "Sharjah University"; ObjectID = "TsJ-0j-ZsM"; */
+"TsJ-0j-ZsM.text" = "Sharjah University";
+
+/* Class = "UILabel"; text = "Sexual content"; ObjectID = "VBZ-OX-xUh"; */
+"VBZ-OX-xUh.text" = "Sexual content";
+
+/* Class = "UIButton"; normalTitle = "Post Now"; ObjectID = "VKX-9l-IDR"; */
+"VKX-9l-IDR.normalTitle" = "Post Now";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vcy-Yw-dY8"; */
+"Vcy-Yw-dY8.text" = "Label";
+
+/* Class = "UILabel"; text = "Option 3"; ObjectID = "Vsm-m4-WHJ"; */
+"Vsm-m4-WHJ.text" = "Option 3";
+
+/* Class = "UIButton"; normalTitle = "Select Group"; ObjectID = "VwD-wz-4vS"; */
+"VwD-wz-4vS.normalTitle" = "Select Group";
+
+/* Class = "UILabel"; text = "Option 5"; ObjectID = "W2f-r0-sWA"; */
+"W2f-r0-sWA.text" = "Option 5";
+
+/* Class = "UILabel"; text = "uni.buzz"; ObjectID = "WE8-TQ-gdT"; */
+"WE8-TQ-gdT.text" = "uni.buzz";
+
+/* Class = "UIButton"; normalTitle = "Member"; ObjectID = "WGq-3D-KRz"; */
+"WGq-3D-KRz.normalTitle" = "Member";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "Whf-A9-IBB"; */
+"Whf-A9-IBB.normalTitle" = "Post";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YgW-Fm-6IH"; */
+"YgW-Fm-6IH.text" = "Label";
+
+/* Class = "UILabel"; text = "Edit Post"; ObjectID = "YhC-3h-cQ7"; */
+"YhC-3h-cQ7.text" = "Edit Post";
+
+/* Class = "UILabel"; text = "Select the group * :"; ObjectID = "Ysi-jJ-qMh"; */
+"Ysi-jJ-qMh.text" = "Select the group * :";
+
+/* Class = "UILabel"; text = "Option 2 "; ObjectID = "ZNG-el-ouc"; */
+"ZNG-el-ouc.text" = "Option 2 ";
+
+/* Class = "UIButton"; normalTitle = "+ Post"; ObjectID = "ZOB-r0-AkX"; */
+"ZOB-r0-AkX.normalTitle" = "+ Post";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "aNb-Aq-bP9"; */
+"aNb-Aq-bP9.normalTitle" = "Done";
+
+/* Class = "UITextField"; placeholder = "Group Name"; ObjectID = "bk0-IR-lqv"; */
+"bk0-IR-lqv.placeholder" = "Group Name";
+
+/* Class = "UILabel"; text = "Report Post"; ObjectID = "c5P-fh-4of"; */
+"c5P-fh-4of.text" = "Report Post";
+
+/* Class = "UILabel"; text = "Poll "; ObjectID = "cMS-Ts-LvA"; */
+"cMS-Ts-LvA.text" = "Poll ";
+
+/* Class = "UILabel"; text = "disable comment "; ObjectID = "cMc-p1-xkz"; */
+"cMc-p1-xkz.text" = "disable comment ";
+
+/* Class = "UILabel"; text = "Sexual content"; ObjectID = "cnT-Nt-Ph6"; */
+"cnT-Nt-Ph6.text" = "Sexual content";
+
+/* Class = "UILabel"; text = "The group description is visable to participants of the group and the people invited to the group"; ObjectID = "cri-gB-Lsb"; */
+"cri-gB-Lsb.text" = "The group description is visable to participants of the group and the people invited to the group";
+
+/* Class = "UILabel"; text = "Choose friends to start communication"; ObjectID = "dcD-sH-AoA"; */
+"dcD-sH-AoA.text" = "Choose friends to start communication";
+
+/* Class = "UIButton"; normalTitle = "New Group"; ObjectID = "dkZ-LE-xn9"; */
+"dkZ-LE-xn9.normalTitle" = "New Group";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ei2-jG-zHs"; */
+"ei2-jG-zHs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "eq1-QT-OMl"; */
+"eq1-QT-OMl.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "fVW-Dz-DXH"; */
+"fVW-Dz-DXH.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Post"; ObjectID = "gr0-L0-RGx"; */
+"gr0-L0-RGx.text" = "Post";
+
+/* Class = "UIButton"; normalTitle = "Select Group"; ObjectID = "heg-Mo-Vkb"; */
+"heg-Mo-Vkb.normalTitle" = "Select Group";
+
+/* Class = "UIButton"; normalTitle = "Select Group"; ObjectID = "hom-6Z-G4J"; */
+"hom-6Z-G4J.normalTitle" = "Select Group";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i94-7S-y6u"; */
+"i94-7S-y6u.text" = "Label";
+
+/* Class = "UILabel"; text = "Option 4"; ObjectID = "kHP-H6-VJT"; */
+"kHP-H6-VJT.text" = "Option 4";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "klP-Xr-bdR"; */
+"klP-Xr-bdR.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Hateful or abusive content"; ObjectID = "l8e-aM-96M"; */
+"l8e-aM-96M.text" = "Hateful or abusive content";
+
+/* Class = "UILabel"; text = "Replying to "; ObjectID = "lWc-z9-Ib2"; */
+"lWc-z9-Ib2.text" = "Replying to ";
+
+/* Class = "UIButton"; normalTitle = "+ Group"; ObjectID = "mNb-ah-oaE"; */
+"mNb-ah-oaE.normalTitle" = "+ Group";
+
+/* Class = "UIButton"; normalTitle = "Create Group"; ObjectID = "neb-E8-RjF"; */
+"neb-E8-RjF.normalTitle" = "Create Group";
+
+/* Class = "UIButton"; normalTitle = "Update Post Now"; ObjectID = "nzS-Se-FSA"; */
+"nzS-Se-FSA.normalTitle" = "Update Post Now";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "p2d-rl-1w1"; */
+"p2d-rl-1w1.placeholder" = "Description";
+
+/* Class = "UILabel"; text = "uni.buzz"; ObjectID = "qSx-18-qsP"; */
+"qSx-18-qsP.text" = "uni.buzz";
+
+/* Class = "UILabel"; text = "Spam or misleading"; ObjectID = "qUy-W8-bFa"; */
+"qUy-W8-bFa.text" = "Spam or misleading";
+
+/* Class = "UILabel"; text = "Replying to "; ObjectID = "r49-ox-GWF"; */
+"r49-ox-GWF.text" = "Replying to ";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "rAf-VK-HA9"; */
+"rAf-VK-HA9.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rFQ-RS-jXK"; */
+"rFQ-RS-jXK.text" = "Label";
+
+/* Class = "UILabel"; text = "Spam or misleading"; ObjectID = "rNb-s6-DAf"; */
+"rNb-s6-DAf.text" = "Spam or misleading";
+
+/* Class = "UILabel"; text = "Option 1 "; ObjectID = "sXl-jf-9Sc"; */
+"sXl-jf-9Sc.text" = "Option 1 ";
+
+/* Class = "UILabel"; text = "Majid kamal"; ObjectID = "srV-jc-rfV"; */
+"srV-jc-rfV.text" = "Majid kamal";
+
+/* Class = "UILabel"; text = "Spam or misleading"; ObjectID = "tZf-Z0-R6B"; */
+"tZf-Z0-R6B.text" = "Spam or misleading";
+
+/* Class = "UILabel"; text = "disable comment "; ObjectID = "tmH-YC-nP1"; */
+"tmH-YC-nP1.text" = "disable comment ";
+
+/* Class = "UILabel"; text = "Post as Anonymous?"; ObjectID = "wNi-al-eHN"; */
+"wNi-al-eHN.text" = "Post as Anonymous?";
+
+/* Class = "UIButton"; normalTitle = "+ Post"; ObjectID = "wVP-28-AM2"; */
+"wVP-28-AM2.normalTitle" = "+ Post";
+
+/* Class = "UILabel"; text = "New Group"; ObjectID = "x8N-h5-quQ"; */
+"x8N-h5-quQ.text" = "New Group";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "xaG-k1-1aJ"; */
+"xaG-k1-1aJ.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "uni.buzz"; ObjectID = "xq8-g8-mjU"; */
+"xq8-g8-mjU.text" = "uni.buzz";
+
+/* Class = "UILabel"; text = "Select the group * :"; ObjectID = "yTK-yA-VSW"; */
+"yTK-yA-VSW.text" = "Select the group * :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yVl-FY-H3f"; */
+"yVl-FY-H3f.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "z5P-eo-39p"; */
+"z5P-eo-39p.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "File"; ObjectID = "zhT-c2-xaS"; */
+"zhT-c2-xaS.normalTitle" = "File";

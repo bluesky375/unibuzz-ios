@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="ProductSans-Bold.ttf">
+            <string>ProductSans-Bold</string>
+        </array>
+        <array key="ProductSans-Regular_0.ttf">
+            <string>ProductSans-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ClassifiedMoreCategoriesCell" id="gTV-IL-0wX" customClass="ClassifiedMoreCategoriesCell" customModule="UniBuzz" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="62"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="62"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PZL-fl-eqx">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="62"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aye-Dv-ssx">
+                                <rect key="frame" x="204" y="5" width="107" height="29"/>
+                                <fontDescription key="fontDescription" name="ProductSans-Bold" family="Product Sans" pointSize="14"/>
+                                <state key="normal" title="More Categories">
+                                    <color key="titleColor" red="0.2156862745" green="0.27058823529999998" blue="0.63921568630000003" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="btnMoreCategories_Pressed:" destination="gTV-IL-0wX" eventType="touchUpInside" id="jug-Wi-NTF"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Recent Classifieds" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="I7N-Dh-FXz">
+                                <rect key="frame" x="8" y="37.5" width="119" height="18.5"/>
+                                <fontDescription key="fontDescription" name="ProductSans-Regular" family="Product Sans" pointSize="15"/>
+                                <color key="textColor" red="0.1529411765" green="0.1137254902" blue="0.36862745099999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.88235294119999996" green="0.92549019610000005" blue="0.99607843139999996" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="aye-Dv-ssx" secondAttribute="trailing" constant="9" id="G0f-CV-v6A"/>
+                            <constraint firstItem="aye-Dv-ssx" firstAttribute="top" secondItem="PZL-fl-eqx" secondAttribute="top" constant="5" id="Rpn-Lv-jua"/>
+                            <constraint firstAttribute="bottom" secondItem="I7N-Dh-FXz" secondAttribute="bottom" constant="6" id="Wl5-ca-7u3"/>
+                            <constraint firstItem="I7N-Dh-FXz" firstAttribute="leading" secondItem="PZL-fl-eqx" secondAttribute="leading" constant="8" id="v9k-hV-9Es"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="PZL-fl-eqx" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="Hx8-Hh-C3C"/>
+                <constraint firstAttribute="trailing" secondItem="PZL-fl-eqx" secondAttribute="trailing" id="P4p-Qe-SR2"/>
+                <constraint firstAttribute="bottom" secondItem="PZL-fl-eqx" secondAttribute="bottom" id="RdZ-01-OYP"/>
+                <constraint firstItem="PZL-fl-eqx" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="f6g-Fg-Icw"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="260" height="62"/>
+            <point key="canvasLocation" x="60.869565217391312" y="116.51785714285714"/>
+        </collectionViewCell>
+    </objects>
+</document>

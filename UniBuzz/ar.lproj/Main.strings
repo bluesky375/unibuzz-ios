@@ -1,0 +1,93 @@
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "2fN-gG-zu7"; */
+"2fN-gG-zu7.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "Register now!"; ObjectID = "2fu-Ye-4Xd"; */
+"2fu-Ye-4Xd.normalTitle" = "سجل الآن";
+
+/* Class = "UILabel"; text = "You don't have an account?  "; ObjectID = "3i9-bY-7VR"; */
+"3i9-bY-7VR.text" = "ليس لديك حساب؟  ";
+
+/* Class = "UILabel"; text = "Forget Password"; ObjectID = "7lW-0L-IDk"; */
+"7lW-0L-IDk.text" = "نسيت كلمة المرور";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "AYP-Kg-1TU"; */
+"AYP-Kg-1TU.text" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "Login !"; ObjectID = "CRA-3j-Dvv"; */
+"CRA-3j-Dvv.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "DnH-Pf-Zke"; */
+"DnH-Pf-Zke.text" = "أنثى";
+
+/* Class = "UIButton"; normalTitle = "Select College"; ObjectID = "EBQ-cu-OOm"; */
+"EBQ-cu-OOm.normalTitle" = "إختر الكلية";
+
+/* Class = "UIButton"; normalTitle = "Send Reset Link"; ObjectID = "G0W-Iq-sDh"; */
+"G0W-Iq-sDh.normalTitle" = "إرسال رابط إعادة التعيين";
+
+/* Class = "UILabel"; text = "Please enter your registered email and we will send you a password reset link"; ObjectID = "Hlj-0K-144"; */
+"Hlj-0K-144.text" = "الرجاء إدخال البريد الإلكتروني المسجل وسيتم إرسال رابط إعادة تعيين كلمة المرور اليك";
+
+/* Class = "UITextField"; placeholder = "New Confirm Password"; ObjectID = "Iqj-cu-9FT"; */
+"Iqj-cu-9FT.placeholder" = "تأكيد كلمة المرور الجديدة";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Kpj-7G-ki3"; */
+"Kpj-7G-ki3.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "You don't have an account ?"; ObjectID = "NHV-Fo-xzg"; */
+"NHV-Fo-xzg.text" = "ليس لديك حساب؟";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Swe-yI-PyT"; */
+"Swe-yI-PyT.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "TE7-qE-Gq1"; */
+"TE7-qE-Gq1.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UIButton"; normalTitle = "Select Country"; ObjectID = "WGU-sz-EjE"; */
+"WGU-sz-EjE.normalTitle" = "إختر الدولة";
+
+/* Class = "UIButton"; normalTitle = "  Done  "; ObjectID = "WLF-zo-TDJ"; */
+"WLF-zo-TDJ.normalTitle" = "تم";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Yx3-lR-5gy"; */
+"Yx3-lR-5gy.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Register now!"; ObjectID = "aQz-rb-pHd"; */
+"aQz-rb-pHd.normalTitle" = "سجل الآن";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "fj9-9V-Yp8"; */
+"fj9-9V-Yp8.placeholder" = "كلمة مرور جديدة";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "iLv-2p-VEv"; */
+"iLv-2p-VEv.placeholder" = "كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Select University"; ObjectID = "lGY-Gy-YML"; */
+"lGY-Gy-YML.normalTitle" = "إختر الجامعة";
+
+/* Class = "UIButton"; normalTitle = "Select Campus"; ObjectID = "loj-0K-lXg"; */
+"loj-0K-lXg.normalTitle" = "إختر الفرع";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "n4T-Gi-W64"; */
+"n4T-Gi-W64.placeholder" = "الإسم الأخير";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "o3h-2y-4hP"; */
+"o3h-2y-4hP.placeholder" = "الإسم الأول";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "qPr-Kz-XCx"; */
+"qPr-Kz-XCx.text" = "ذكر";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "qhu-Ev-Ihi"; */
+"qhu-Ev-Ihi.text" = "بحث";
+
+/* Class = "UIButton"; normalTitle = "Select Student Level"; ObjectID = "tKI-e3-aBZ"; */
+"tKI-e3-aBZ.normalTitle" = "إختر المرحلة الجامعية";
+
+/* Class = "UIButton"; normalTitle = "Forget Password ?"; ObjectID = "tub-A9-eiH"; */
+"tub-A9-eiH.normalTitle" = "هل نسيت كلمة المرور";
+
+/* Class = "UILabel"; text = "Already have account?  "; ObjectID = "ve5-dz-o8l"; */
+"ve5-dz-o8l.text" = "هل لديك حساب بالفعل ؟ ";
+
+/* Class = "UIButton"; normalTitle = "Register Now"; ObjectID = "vf3-Uu-SAb"; */
+"vf3-Uu-SAb.normalTitle" = "سجل الآن";

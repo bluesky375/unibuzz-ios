@@ -1,0 +1,51 @@
+
+/* Class = "UIButton"; normalTitle = " + Add  "; ObjectID = "39J-YJ-VK6"; */
+"39J-YJ-VK6.normalTitle" = " إضافة ";
+
+/* Class = "UILabel"; text = "Application Form"; ObjectID = "4Gy-Pv-FSF"; */
+"4Gy-Pv-FSF.text" = "إستمارة التقديم";
+
+/* Class = "UILabel"; text = "Company Info"; ObjectID = "5iU-es-H6L"; */
+"5iU-es-H6L.text" = "معلومات الشركة";
+
+/* Class = "UILabel"; text = "Jobs"; ObjectID = "9a5-iA-Vlg"; */
+"9a5-iA-Vlg.text" = "الوظائف";
+
+/* Class = "UILabel"; text = "Upload new CV"; ObjectID = "9dn-06-fdZ"; */
+"9dn-06-fdZ.text" = "استخدام سيرة ذاتية جديدة";
+
+/* Class = "UIButton"; normalTitle = "Applications"; ObjectID = "9gs-2E-jFC"; */
+"9gs-2E-jFC.normalTitle" = "طلبات التوظيف";
+
+/* Class = "UIButton"; normalTitle = "Submit Application"; ObjectID = "BSM-W9-OW6"; */
+"BSM-W9-OW6.normalTitle" = "تقديم الطلب";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "BbM-sD-DWp"; */
+"BbM-sD-DWp.title" = "العناصر";
+
+/* Class = "UILabel"; text = "Cover Letter"; ObjectID = "QnR-Yj-4rt"; */
+"QnR-Yj-4rt.text" = "رسالة طلب عمل";
+
+/* Class = "UIButton"; normalTitle = "Apply Now"; ObjectID = "W1C-mI-DVG"; */
+"W1C-mI-DVG.normalTitle" = "تقديم للوظيفة";
+
+/* Class = "UILabel"; text = "Jobs"; ObjectID = "W86-Rk-5rr"; */
+"W86-Rk-5rr.text" = "الوظائف";
+
+/* Class = "UILabel"; text = "With company name"; ObjectID = "cwT-sl-jfy"; */
+"cwT-sl-jfy.text" = ":مع الشركة";
+
+/* Class = "UILabel"; text = "Use my Cv"; ObjectID = "jAH-B4-LmF"; */
+"jAH-B4-LmF.text" = "إستخدام سيرتي الذاتية من Unibuzz";
+
+/* Class = "UILabel"; text = "You are applying for :"; ObjectID = "pNJ-IB-oi3"; */
+"pNJ-IB-oi3.text" = ":أنت تقدم طلب لوظيفة";
+
+/* Class = "UILabel"; text = "You are applying for :"; ObjectID = "qUq-Jg-3Ah"; */
+"qUq-Jg-3Ah.text" = ":أنت تقدم طلب لوظيفة";
+
+/* Class = "UILabel"; text = "You are applying for :"; ObjectID = "uGB-XT-Okn"; */
+"uGB-XT-Okn.text" = ":أنت تقدم طلب لوظيفة";
+
+/* Class = "UIButton"; normalTitle = "All"; ObjectID = "uGX-Hw-y5W"; */
+"uGX-Hw-y5W.normalTitle" = "الكل";

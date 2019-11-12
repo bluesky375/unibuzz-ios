@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15508"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="ProductSans-Light.ttf">
+            <string>ProductSans-Light</string>
+        </array>
+        <array key="ProductSans-Medium.ttf">
+            <string>ProductSans-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="BookStoreCell" rowHeight="133" id="KGk-i7-Jjw" customClass="BookStoreCell" customModule="UniBuzz" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="133"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="133"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Vp0-N0-hZk" customClass="CardView" customModule="UniBuzz" customModuleProvider="target">
+                        <rect key="frame" x="8" y="5" width="304" height="123"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="signIn" translatesAutoresizingMaskIntoConstraints="NO" id="zpJ-rd-rYd">
+                                <rect key="frame" x="10" y="5" width="93.5" height="113"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="zpJ-rd-rYd" secondAttribute="height" multiplier="19:23" id="4l5-gO-Vf8"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="The New Penguin Dictionary of Civil Engineering" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tr1-Ax-OWV">
+                                <rect key="frame" x="108" y="8" width="188" height="17"/>
+                                <fontDescription key="fontDescription" name="ProductSans-Medium" family="Product Sans Medium" pointSize="14"/>
+                                <color key="textColor" red="0.2156862745" green="0.27058823529999998" blue="0.63921568630000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="university" translatesAutoresizingMaskIntoConstraints="NO" id="9QN-CB-Cx4">
+                                <rect key="frame" x="108" y="36.5" width="10" height="10"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="10" id="Z8F-37-KoG"/>
+                                    <constraint firstAttribute="height" constant="10" id="fiD-U5-DLN"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="University of Sharja" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WeT-PJ-EhF">
+                                <rect key="frame" x="121" y="33" width="175" height="16.5"/>
+                                <fontDescription key="fontDescription" name="ProductSans-Light" family="Product Sans Light" pointSize="14"/>
+                                <color key="textColor" red="0.58431372549019611" green="0.58431372549019611" blue="0.58431372549019611" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="location" translatesAutoresizingMaskIntoConstraints="NO" id="pog-YO-zGp">
+                                <rect key="frame" x="108" y="56.5" width="10" height="10"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="10" id="373-UB-iYp"/>
+                                    <constraint firstAttribute="height" constant="10" id="BeA-OH-Y0q"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Dubai Silicon Oasis" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iNb-76-TXc">
+                                <rect key="frame" x="121" y="53" width="175" height="17"/>
+                                <fontDescription key="fontDescription" name="ProductSans-Light" family="Product Sans Light" pointSize="14"/>
+                                <color key="textColor" red="0.58431372550000005" green="0.58431372550000005" blue="0.58431372550000005" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="80 AED" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cqN-ik-1eC">
+                                <rect key="frame" x="108" y="72" width="47" height="17"/>
+                                <fontDescription key="fontDescription" name="ProductSans-Medium" family="Product Sans Medium" pointSize="14"/>
+                                <color key="textColor" red="0.83137254900000002" green="0.43921568630000002" blue="0.1137254902" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YMp-WU-Vvl">
+                                <rect key="frame" x="271" y="70.5" width="25" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="25" id="1o0-dc-NqJ"/>
+                                    <constraint firstAttribute="height" constant="20" id="HiE-P8-Mhw"/>
+                                </constraints>
+                                <state key="normal" image="more"/>
+                                <connections>
+                                    <action selector="btnAddMore:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="gXC-MP-L5o"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="cqN-ik-1eC" firstAttribute="top" secondItem="iNb-76-TXc" secondAttribute="bottom" constant="2" id="2BG-oG-uFS"/>
+                            <constraint firstItem="iNb-76-TXc" firstAttribute="trailing" secondItem="WeT-PJ-EhF" secondAttribute="trailing" id="6JZ-41-m1b"/>
+                            <constraint firstItem="WeT-PJ-EhF" firstAttribute="top" secondItem="tr1-Ax-OWV" secondAttribute="bottom" constant="8" id="6q8-AS-83L"/>
+                            <constraint firstAttribute="bottom" secondItem="zpJ-rd-rYd" secondAttribute="bottom" constant="5" id="AcP-zB-32J"/>
+                            <constraint firstItem="YMp-WU-Vvl" firstAttribute="trailing" secondItem="tr1-Ax-OWV" secondAttribute="trailing" id="Bhi-9W-6ZS"/>
+                            <constraint firstItem="9QN-CB-Cx4" firstAttribute="leading" secondItem="tr1-Ax-OWV" secondAttribute="leading" id="Eum-VM-kEe"/>
+                            <constraint firstItem="WeT-PJ-EhF" firstAttribute="trailing" secondItem="tr1-Ax-OWV" secondAttribute="trailing" id="OZS-HK-PKa"/>
+                            <constraint firstItem="zpJ-rd-rYd" firstAttribute="top" secondItem="Vp0-N0-hZk" secondAttribute="top" constant="5" id="OlO-r5-rZH"/>
+                            <constraint firstItem="YMp-WU-Vvl" firstAttribute="centerY" secondItem="cqN-ik-1eC" secondAttribute="centerY" id="YAf-uf-BMg"/>
+                            <constraint firstItem="iNb-76-TXc" firstAttribute="centerY" secondItem="pog-YO-zGp" secondAttribute="centerY" id="Yjo-Qh-WsG"/>
+                            <constraint firstItem="tr1-Ax-OWV" firstAttribute="leading" secondItem="zpJ-rd-rYd" secondAttribute="trailing" constant="4.5" id="aQW-nX-rZd"/>
+                            <constraint firstItem="WeT-PJ-EhF" firstAttribute="leading" secondItem="9QN-CB-Cx4" secondAttribute="trailing" constant="3" id="hdG-W8-mUB"/>
+                            <constraint firstItem="zpJ-rd-rYd" firstAttribute="leading" secondItem="Vp0-N0-hZk" secondAttribute="leading" constant="10" id="kg2-5Y-x5i"/>
+                            <constraint firstAttribute="trailing" secondItem="tr1-Ax-OWV" secondAttribute="trailing" constant="8" id="l6g-bO-63G"/>
+                            <constraint firstItem="cqN-ik-1eC" firstAttribute="leading" secondItem="pog-YO-zGp" secondAttribute="leading" id="o3p-l9-swC"/>
+                            <constraint firstItem="iNb-76-TXc" firstAttribute="top" secondItem="WeT-PJ-EhF" secondAttribute="bottom" constant="3.5" id="qqw-CK-r3t"/>
+                            <constraint firstItem="tr1-Ax-OWV" firstAttribute="top" secondItem="Vp0-N0-hZk" secondAttribute="top" constant="8" id="rac-6j-ogH"/>
+                            <constraint firstItem="WeT-PJ-EhF" firstAttribute="centerY" secondItem="9QN-CB-Cx4" secondAttribute="centerY" id="vZU-hv-sOa"/>
+                            <constraint firstItem="iNb-76-TXc" firstAttribute="leading" secondItem="pog-YO-zGp" secondAttribute="trailing" constant="3" id="xFb-Rc-cPE"/>
+                            <constraint firstItem="iNb-76-TXc" firstAttribute="leading" secondItem="WeT-PJ-EhF" secondAttribute="leading" id="yOm-W9-gMe"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                                <color key="value" red="0.1843137255" green="0.1529411765" blue="0.49019607840000001" alpha="1" colorSpace="calibratedRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                                <real key="value" value="0.40000000000000002"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Vp0-N0-hZk" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="51b-zr-hp0"/>
+                    <constraint firstAttribute="bottom" secondItem="Vp0-N0-hZk" secondAttribute="bottom" constant="5" id="OGu-6N-kcE"/>
+                    <constraint firstItem="Vp0-N0-hZk" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="u0U-zl-r7F"/>
+                    <constraint firstAttribute="trailing" secondItem="Vp0-N0-hZk" secondAttribute="trailing" constant="8" id="wW6-4u-Uci"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="btnMore" destination="YMp-WU-Vvl" id="8H5-rG-mCs"/>
+                <outlet property="imgOfBook" destination="zpJ-rd-rYd" id="B52-yg-fPz"/>
+                <outlet property="imgOfLocation" destination="pog-YO-zGp" id="EbC-N7-alE"/>
+                <outlet property="lbTitle" destination="tr1-Ax-OWV" id="kJ7-ms-ctZ"/>
+                <outlet property="lblLocation" destination="iNb-76-TXc" id="uvf-v7-qjS"/>
+                <outlet property="lblPrice" destination="cqN-ik-1eC" id="qlh-qe-67A"/>
+                <outlet property="lblUniName" destination="WeT-PJ-EhF" id="E7o-Dh-hzv"/>
+            </connections>
+            <point key="canvasLocation" x="131.8840579710145" y="176.45089285714286"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="location" width="16" height="16"/>
+        <image name="more" width="16" height="16"/>
+        <image name="signIn" width="187.5" height="333"/>
+        <image name="university" width="16" height="16"/>
+    </resources>
+</document>
